@@ -1,0 +1,27 @@
+{
+  "name": "uniswapinteraction",
+  "version": "1.0.0",
+  "description": "writing scripts to interact with uniswap protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunnie99/UniswapIteract.git"
+  },
+  "author": "Oluwadunnie Rachael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunnie99/UniswapIteract/issues"
+  },
+  "homepage": "https://github.com/dunnie99/UniswapIteract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "dotenv": "^16.0.3"
+  }
+}
